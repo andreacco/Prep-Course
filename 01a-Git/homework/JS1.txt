@@ -1,0 +1,12 @@
+¿Que son variables?
+Es la forma de almacenar un dato para usarlo más tade. ya sea en una función, operación, entre otros
+¿Que son strings?
+Son datos de texto y uncamente de texto que se pueden introducir en un programa y siempre van entre comillas
+¿Qué es el argumento de una fución?
+Un argumento de una función es todo lo que dicha función va a ejecutar. pude ser una variable, como también numeros, enre otros
+¿Qué es 'return' en JS?
+return quiere decir todo lo que va adevoler la función una vez se resuelva, y es en este momento que deja de hacer lo que está haciedo y te da el valor calculado
+¿Qué son las declaraciones if?
+Es la forma en que una función verifique si algo es verdadero o falso, si es verdadero te retornará true y si es falso, false
+¿Qué son los valores booleanos 'true, false'
+Los valores booleanos solo pueden indicar 2 cosas, true y false, por lo que en JS se usan para indicarsi aglo e verdadero o falso
