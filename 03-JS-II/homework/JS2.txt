@@ -1,0 +1,8 @@
+¿Qué es for?
+Es unblucle que contiee una variable, una expresión de condición y un incremento de variable con ++, este bucle se ejecuta hasta que ya no se cumpla la condición
+¿Qué es &&?
+"Y" Es un operador lógico que comparará si AMBAS expresiones indicadas, son verdadera y si al menos una es falsa, este operador indicará falso
+¿Qué es ||?
+"O" Es un operador lógico que comparará varias expresiones etre sí y si al menosuna es verdadera, devolverá True, solo devolverá false cuando todas las expresiones indicadas sean falsas
+¿Qué es !?
+"No" Es un operador lógico que se usa para egar alguna expresión o valor, y devolverá lo contrario alo que setá preguntando
